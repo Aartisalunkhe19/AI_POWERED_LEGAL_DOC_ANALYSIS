@@ -1,0 +1,29 @@
+cookie:
+  expiry_days: 30
+  key: some_random_key_123
+  name: auth_cookie
+credentials:
+  usernames:
+    aarti:
+      email: aarti19@gmail.com
+      name: aarti
+      password: $2b$12$kk6FlRj5V/Z.K3q24NWEke7DcB8Ktx/Xuy/1iNj7t93RGlhkoI4s2
+      role: user
+    aarti19:
+      email: aarti19@gmail.com
+      name: aarti19
+      password: $2b$12$Naj6cdEZDzK4u1NVKMPjrup7YpBi06TLY1St/lFUNtW3v8Pu/48ay
+    admin:
+      email: admin@example.com
+      name: Admin
+      password: $2b$12$K6LoOQYulAyBtLsAX.XGI.ud7odblycnRF7YlttGmcibtxc5pvrGi
+      role: admin
+    bharat11:
+      email: bharatsalunkhe0411@gmail.com
+      name: bharat11
+      password: $2b$12$oipz5TgcZvqtoQZeSXIePOq/JS3aiMaWXG/yXu7N/3gogiKd.AorO
+    shubhangi:
+      email: shubhangi123@gmail.com
+      name: shubhangi
+      password: $2b$12$JLpqmYztweuFDcW8z4oUbOEigHcSjv55vT2J6YTWcRMNxJmWcwLey
+      role: user
